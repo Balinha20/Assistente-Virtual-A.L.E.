@@ -1,0 +1,414 @@
+2024-10-30 23:54:52,993 INFO [launcher] -----------------------------------------------
+2024-10-30 23:54:52,993 INFO [launcher] Start "cs.exe"
+2024-10-30 23:54:52,993 INFO [launcher] Version: 2.3.2
+2024-10-30 23:54:53,000 INFO [launcher] Finishing launcher update
+2024-10-30 23:54:53,000 INFO [launcher] Finishing launcher update: nothing to do
+2024-10-30 23:54:53,000 INFO [launcher] Branch: main
+2024-10-30 23:54:53,012 INFO [launcher] Run updater
+2024-10-30 23:54:53,027 INFO [launcher] Restoring from backup
+2024-10-30 23:54:53,027 INFO [launcher]   nothing to do
+2024-10-30 23:54:53,027 INFO [launcher] Clearing backup folder
+2024-10-30 23:54:53,027 INFO [launcher] Requesting file list from server
+2024-10-30 23:54:53,353 INFO [launcher] Gathering files that need to be updated
+2024-10-30 23:54:53,353 INFO [launcher]   files to update:
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\valve_russian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half1.tga
+2024-10-30 23:54:53,353 INFO [launcher]   FileSystem_Proxy.dll
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\gameui_english.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\dlls\mp.dll
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\OptionsSubMultiplayer.res
+2024-10-30 23:54:53,353 INFO [launcher]   SDL2.dll
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\TrackerScheme.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\shell\kb_act.lst
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\cl_dlls\GameUI.dll
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half3.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cs_new.exe
+2024-10-30 23:54:53,353 INFO [launcher]   nitro_api2.dll
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\cl_dlls\client_mini.dll
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\valve_english.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\shell\kb_def.lst
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800corner1.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800corner2.tga
+2024-10-30 23:54:53,353 INFO [launcher]   valve\next_client.mssu
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800corner3.tga
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\valve_spanish.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800corner4.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder1.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder2.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder3.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\cstrike_spanish.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder4.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_Source.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half2.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\MultiplayerAdvancedDialog.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half4.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\OptionsSubVideo.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\gfx\vgui2\logo_steam.tga
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\CreateMultiplayerGameBotPage.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\CreateMultiplayerGameServerPage.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\OptionsSubMiscellaneous.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\VideoAvancedDialog.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\cstrike_english.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\nextclient_english.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\cstrike_russian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\cstrike_ukrainian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\nextclient_russian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\gameui_russian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\nextclient_ukrainian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_ClassicPlus.res
+2024-10-30 23:54:53,353 INFO [launcher]   cstrike\sprites\kill_rarity.spr
+2024-10-30 23:54:53,353 INFO [launcher]   platform\servers\InternetGamesPage.res
+2024-10-30 23:54:53,353 INFO [launcher]   next_engine_mini.dll
+2024-10-30 23:54:53,353 INFO [launcher]   steam_api.dll
+2024-10-30 23:54:53,353 INFO [launcher]   next_lib.dll
+2024-10-30 23:54:53,353 INFO [launcher]   platform\servers\InternetGamesPage_Filters.res
+2024-10-30 23:54:53,353 INFO [launcher]   platform\steam\steam_api.dll
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\gameui_spanish.txt
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\OptionsSubMouse.res
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\OptionsSubVideo.res
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\OptionsSubVoice.res
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\gameui_ukrainian.txt
+2024-10-30 23:54:53,353 INFO [launcher]   valve\resource\valve_ukrainian.txt
+2024-10-30 23:54:53,353 INFO [launcher] Creating a backup
+2024-10-30 23:54:53,353 INFO [launcher] Opening files to install
+2024-10-30 23:54:53,383 INFO [launcher] Downloading an update
+2024-10-30 23:54:56,366 INFO [launcher] Download of the update is canceled by user
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\VideoAvancedDialog.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\resource\valve_russian.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | FileSystem_Proxy.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\resource\valve_english.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\dlls\mp.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half1.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | SDL2.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | steam_api.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameBotPage.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\resource\gameui_english.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameServerPage.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMultiplayer.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\TrackerScheme.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_ukrainian.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_act.lst: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\GameUI.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half3.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\MultiplayerAdvancedDialog.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cs_new.exe: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | nitro_api2.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_english.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner1.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\client_mini.dll: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_def.lst: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVoice.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner2.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\next_client.mssu: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner3.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\logo_steam.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | valve\resource\valve_spanish.txt: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner4.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder1.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder2.tga: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMiscellaneous.res: deleting empty file
+2024-10-30 23:54:56,367 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder3.tga: deleting empty file
+2024-10-30 23:54:56,383 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_russian.txt: deleting empty file
+2024-10-30 23:54:56,384 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_spanish.txt: deleting empty file
+2024-10-30 23:54:56,385 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder4.tga: deleting empty file
+2024-10-30 23:54:56,386 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_Source.res: deleting empty file
+2024-10-30 23:54:56,387 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half2.tga: deleting empty file
+2024-10-30 23:54:56,387 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half4.tga: deleting empty file
+2024-10-30 23:54:56,388 INFO [launcher] OpenerFile::Close | cstrike\sprites\kill_rarity.spr: deleting empty file
+2024-10-30 23:54:56,388 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubVideo.res: deleting empty file
+2024-10-30 23:54:56,389 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_english.txt: deleting empty file
+2024-10-30 23:54:56,389 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_russian.txt: deleting empty file
+2024-10-30 23:54:56,390 INFO [launcher] OpenerFile::Close | valve\resource\gameui_russian.txt: deleting empty file
+2024-10-30 23:54:56,392 INFO [launcher] OpenerFile::Close | next_engine_mini.dll: deleting empty file
+2024-10-30 23:54:56,393 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_ukrainian.txt: deleting empty file
+2024-10-30 23:54:56,394 INFO [launcher] OpenerFile::Close | valve\resource\valve_ukrainian.txt: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_ClassicPlus.res: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage.res: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | valve\resource\gameui_ukrainian.txt: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | next_lib.dll: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | platform\steam\steam_api.dll: deleting empty file
+2024-10-30 23:54:56,395 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage_Filters.res: deleting empty file
+2024-10-30 23:54:56,400 INFO [launcher] OpenerFile::Close | valve\resource\gameui_spanish.txt: deleting empty file
+2024-10-30 23:54:56,401 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVideo.res: deleting empty file
+2024-10-30 23:54:56,401 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubMouse.res: deleting empty file
+2024-10-30 23:54:56,402 INFO [launcher] Restoring from backup
+2024-10-30 23:54:56,402 INFO [launcher]   nothing to do
+2024-10-30 23:54:56,402 INFO [launcher] Clearing backup folder
+2024-10-30 23:54:56,410 INFO [launcher] Updater done: Exit
+2024-10-30 23:54:58,294 INFO [launcher] Exit
+2024-10-31 08:52:26,696 INFO [launcher] -----------------------------------------------
+2024-10-31 08:52:26,700 INFO [launcher] Start "cs.exe"
+2024-10-31 08:52:26,700 INFO [launcher] Version: 2.3.2
+2024-10-31 08:52:26,700 INFO [launcher] Finishing launcher update
+2024-10-31 08:52:26,700 INFO [launcher] Finishing launcher update: nothing to do
+2024-10-31 08:52:26,700 INFO [launcher] Branch: main
+2024-10-31 08:52:26,716 INFO [launcher] Run updater
+2024-10-31 08:52:26,731 INFO [launcher] Restoring from backup
+2024-10-31 08:52:26,731 INFO [launcher]   nothing to do
+2024-10-31 08:52:26,731 INFO [launcher] Clearing backup folder
+2024-10-31 08:52:26,731 INFO [launcher] Requesting file list from server
+2024-10-31 08:52:27,966 INFO [launcher] Gathering files that need to be updated
+2024-10-31 08:52:27,966 INFO [launcher]   files to update:
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\valve_russian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half1.tga
+2024-10-31 08:52:27,966 INFO [launcher]   FileSystem_Proxy.dll
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\gameui_english.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\dlls\mp.dll
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\OptionsSubMultiplayer.res
+2024-10-31 08:52:27,966 INFO [launcher]   SDL2.dll
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\TrackerScheme.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\shell\kb_act.lst
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\cl_dlls\GameUI.dll
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half3.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cs_new.exe
+2024-10-31 08:52:27,966 INFO [launcher]   nitro_api2.dll
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\cl_dlls\client_mini.dll
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\valve_english.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\shell\kb_def.lst
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800corner1.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800corner2.tga
+2024-10-31 08:52:27,966 INFO [launcher]   valve\next_client.mssu
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800corner3.tga
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\valve_spanish.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800corner4.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder1.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder2.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder3.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\cstrike_spanish.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder4.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_Source.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half2.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\MultiplayerAdvancedDialog.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half4.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\OptionsSubVideo.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\gfx\vgui2\logo_steam.tga
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\CreateMultiplayerGameBotPage.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\CreateMultiplayerGameServerPage.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\OptionsSubMiscellaneous.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\VideoAvancedDialog.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\cstrike_english.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\nextclient_english.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\cstrike_russian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\cstrike_ukrainian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\nextclient_russian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\gameui_russian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\nextclient_ukrainian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_ClassicPlus.res
+2024-10-31 08:52:27,966 INFO [launcher]   cstrike\sprites\kill_rarity.spr
+2024-10-31 08:52:27,966 INFO [launcher]   platform\servers\InternetGamesPage.res
+2024-10-31 08:52:27,966 INFO [launcher]   next_engine_mini.dll
+2024-10-31 08:52:27,966 INFO [launcher]   steam_api.dll
+2024-10-31 08:52:27,966 INFO [launcher]   next_lib.dll
+2024-10-31 08:52:27,966 INFO [launcher]   platform\servers\InternetGamesPage_Filters.res
+2024-10-31 08:52:27,966 INFO [launcher]   platform\steam\steam_api.dll
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\gameui_spanish.txt
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\OptionsSubMouse.res
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\OptionsSubVideo.res
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\OptionsSubVoice.res
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\gameui_ukrainian.txt
+2024-10-31 08:52:27,966 INFO [launcher]   valve\resource\valve_ukrainian.txt
+2024-10-31 08:52:27,966 INFO [launcher] Creating a backup
+2024-10-31 08:52:27,966 INFO [launcher] Opening files to install
+2024-10-31 08:52:28,008 INFO [launcher] Downloading an update
+2024-10-31 08:52:31,538 INFO [launcher] Download of the update is canceled by user
+2024-10-31 08:52:31,538 INFO [launcher] OpenerFile::Close | cstrike\resource\VideoAvancedDialog.res: deleting empty file
+2024-10-31 08:52:31,538 INFO [launcher] OpenerFile::Close | valve\resource\valve_russian.txt: deleting empty file
+2024-10-31 08:52:31,539 INFO [launcher] OpenerFile::Close | FileSystem_Proxy.dll: deleting empty file
+2024-10-31 08:52:31,539 INFO [launcher] OpenerFile::Close | valve\resource\valve_english.txt: deleting empty file
+2024-10-31 08:52:31,539 INFO [launcher] OpenerFile::Close | cstrike\dlls\mp.dll: deleting empty file
+2024-10-31 08:52:31,540 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half1.tga: deleting empty file
+2024-10-31 08:52:31,540 INFO [launcher] OpenerFile::Close | SDL2.dll: deleting empty file
+2024-10-31 08:52:31,540 INFO [launcher] OpenerFile::Close | steam_api.dll: deleting empty file
+2024-10-31 08:52:31,541 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameBotPage.res: deleting empty file
+2024-10-31 08:52:31,541 INFO [launcher] OpenerFile::Close | valve\resource\gameui_english.txt: deleting empty file
+2024-10-31 08:52:31,541 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameServerPage.res: deleting empty file
+2024-10-31 08:52:31,542 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMultiplayer.res: deleting empty file
+2024-10-31 08:52:31,542 INFO [launcher] OpenerFile::Close | cstrike\resource\TrackerScheme.res: deleting empty file
+2024-10-31 08:52:31,543 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_ukrainian.txt: deleting empty file
+2024-10-31 08:52:31,543 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_act.lst: deleting empty file
+2024-10-31 08:52:31,543 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\GameUI.dll: deleting empty file
+2024-10-31 08:52:31,543 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half3.tga: deleting empty file
+2024-10-31 08:52:31,544 INFO [launcher] OpenerFile::Close | cstrike\resource\MultiplayerAdvancedDialog.res: deleting empty file
+2024-10-31 08:52:31,544 INFO [launcher] OpenerFile::Close | cs_new.exe: deleting empty file
+2024-10-31 08:52:31,544 INFO [launcher] OpenerFile::Close | nitro_api2.dll: deleting empty file
+2024-10-31 08:52:31,545 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_english.txt: deleting empty file
+2024-10-31 08:52:31,545 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner1.tga: deleting empty file
+2024-10-31 08:52:31,546 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\client_mini.dll: deleting empty file
+2024-10-31 08:52:31,546 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_def.lst: deleting empty file
+2024-10-31 08:52:31,546 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVoice.res: deleting empty file
+2024-10-31 08:52:31,547 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner2.tga: deleting empty file
+2024-10-31 08:52:31,547 INFO [launcher] OpenerFile::Close | valve\next_client.mssu: deleting empty file
+2024-10-31 08:52:31,547 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner3.tga: deleting empty file
+2024-10-31 08:52:31,548 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\logo_steam.tga: deleting empty file
+2024-10-31 08:52:31,548 INFO [launcher] OpenerFile::Close | valve\resource\valve_spanish.txt: deleting empty file
+2024-10-31 08:52:31,548 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner4.tga: deleting empty file
+2024-10-31 08:52:31,549 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder1.tga: deleting empty file
+2024-10-31 08:52:31,549 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder2.tga: deleting empty file
+2024-10-31 08:52:31,549 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMiscellaneous.res: deleting empty file
+2024-10-31 08:52:31,550 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder3.tga: deleting empty file
+2024-10-31 08:52:31,550 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_russian.txt: deleting empty file
+2024-10-31 08:52:31,551 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_spanish.txt: deleting empty file
+2024-10-31 08:52:31,551 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder4.tga: deleting empty file
+2024-10-31 08:52:31,552 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_Source.res: deleting empty file
+2024-10-31 08:52:31,552 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half2.tga: deleting empty file
+2024-10-31 08:52:31,553 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half4.tga: deleting empty file
+2024-10-31 08:52:31,554 INFO [launcher] OpenerFile::Close | cstrike\sprites\kill_rarity.spr: deleting empty file
+2024-10-31 08:52:31,554 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubVideo.res: deleting empty file
+2024-10-31 08:52:31,555 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_english.txt: deleting empty file
+2024-10-31 08:52:31,557 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_russian.txt: deleting empty file
+2024-10-31 08:52:31,557 INFO [launcher] OpenerFile::Close | valve\resource\gameui_russian.txt: deleting empty file
+2024-10-31 08:52:31,558 INFO [launcher] OpenerFile::Close | next_engine_mini.dll: deleting empty file
+2024-10-31 08:52:31,559 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_ukrainian.txt: deleting empty file
+2024-10-31 08:52:31,560 INFO [launcher] OpenerFile::Close | valve\resource\valve_ukrainian.txt: deleting empty file
+2024-10-31 08:52:31,561 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_ClassicPlus.res: deleting empty file
+2024-10-31 08:52:31,562 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage.res: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | valve\resource\gameui_ukrainian.txt: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | next_lib.dll: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | platform\steam\steam_api.dll: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage_Filters.res: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | valve\resource\gameui_spanish.txt: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVideo.res: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubMouse.res: deleting empty file
+2024-10-31 08:52:31,564 INFO [launcher] Restoring from backup
+2024-10-31 08:52:31,564 INFO [launcher]   nothing to do
+2024-10-31 08:52:31,564 INFO [launcher] Clearing backup folder
+2024-10-31 08:52:31,595 INFO [launcher] Updater done: Exit
+2024-10-31 08:52:33,690 INFO [launcher] Exit
+2024-10-31 08:54:09,971 INFO [launcher] -----------------------------------------------
+2024-10-31 08:54:09,977 INFO [launcher] Start "cs.exe"
+2024-10-31 08:54:09,977 INFO [launcher] Version: 2.3.2
+2024-10-31 08:54:09,977 INFO [launcher] Finishing launcher update
+2024-10-31 08:54:09,977 INFO [launcher] Finishing launcher update: nothing to do
+2024-10-31 08:54:09,977 INFO [launcher] Branch: main
+2024-10-31 08:54:09,989 INFO [launcher] Run updater
+2024-10-31 08:54:10,009 INFO [launcher] Restoring from backup
+2024-10-31 08:54:10,009 INFO [launcher]   nothing to do
+2024-10-31 08:54:10,009 INFO [launcher] Clearing backup folder
+2024-10-31 08:54:10,009 INFO [launcher] Requesting file list from server
+2024-10-31 08:54:10,359 INFO [launcher] Gathering files that need to be updated
+2024-10-31 08:54:10,359 INFO [launcher]   files to update:
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\valve_russian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half1.tga
+2024-10-31 08:54:10,359 INFO [launcher]   FileSystem_Proxy.dll
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\gameui_english.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\dlls\mp.dll
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\OptionsSubMultiplayer.res
+2024-10-31 08:54:10,359 INFO [launcher]   SDL2.dll
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\TrackerScheme.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\shell\kb_act.lst
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\cl_dlls\GameUI.dll
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half3.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cs_new.exe
+2024-10-31 08:54:10,359 INFO [launcher]   nitro_api2.dll
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\cl_dlls\client_mini.dll
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\valve_english.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\shell\kb_def.lst
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800corner1.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800corner2.tga
+2024-10-31 08:54:10,359 INFO [launcher]   valve\next_client.mssu
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800corner3.tga
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\valve_spanish.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800corner4.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder1.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder2.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder3.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\cstrike_spanish.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder4.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_Source.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half2.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\MultiplayerAdvancedDialog.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\800cornerborder_half4.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\OptionsSubVideo.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\gfx\vgui2\logo_steam.tga
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\CreateMultiplayerGameBotPage.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\CreateMultiplayerGameServerPage.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\OptionsSubMiscellaneous.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\VideoAvancedDialog.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\cstrike_english.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\nextclient_english.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\cstrike_russian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\cstrike_ukrainian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\nextclient_russian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\gameui_russian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\nextclient_ukrainian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\resource\schemes\TrackerScheme_ClassicPlus.res
+2024-10-31 08:54:10,359 INFO [launcher]   cstrike\sprites\kill_rarity.spr
+2024-10-31 08:54:10,359 INFO [launcher]   platform\servers\InternetGamesPage.res
+2024-10-31 08:54:10,359 INFO [launcher]   next_engine_mini.dll
+2024-10-31 08:54:10,359 INFO [launcher]   steam_api.dll
+2024-10-31 08:54:10,359 INFO [launcher]   next_lib.dll
+2024-10-31 08:54:10,359 INFO [launcher]   platform\servers\InternetGamesPage_Filters.res
+2024-10-31 08:54:10,359 INFO [launcher]   platform\steam\steam_api.dll
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\gameui_spanish.txt
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\OptionsSubMouse.res
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\OptionsSubVideo.res
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\OptionsSubVoice.res
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\gameui_ukrainian.txt
+2024-10-31 08:54:10,359 INFO [launcher]   valve\resource\valve_ukrainian.txt
+2024-10-31 08:54:10,359 INFO [launcher] Creating a backup
+2024-10-31 08:54:10,359 INFO [launcher] Opening files to install
+2024-10-31 08:54:10,390 INFO [launcher] Downloading an update
+2024-10-31 08:54:13,060 INFO [launcher] Download of the update is canceled by user
+2024-10-31 08:54:13,060 INFO [launcher] OpenerFile::Close | cstrike\resource\VideoAvancedDialog.res: deleting empty file
+2024-10-31 08:54:13,061 INFO [launcher] OpenerFile::Close | valve\resource\valve_russian.txt: deleting empty file
+2024-10-31 08:54:13,061 INFO [launcher] OpenerFile::Close | FileSystem_Proxy.dll: deleting empty file
+2024-10-31 08:54:13,062 INFO [launcher] OpenerFile::Close | valve\resource\valve_english.txt: deleting empty file
+2024-10-31 08:54:13,062 INFO [launcher] OpenerFile::Close | cstrike\dlls\mp.dll: deleting empty file
+2024-10-31 08:54:13,062 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half1.tga: deleting empty file
+2024-10-31 08:54:13,063 INFO [launcher] OpenerFile::Close | SDL2.dll: deleting empty file
+2024-10-31 08:54:13,063 INFO [launcher] OpenerFile::Close | steam_api.dll: deleting empty file
+2024-10-31 08:54:13,064 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameBotPage.res: deleting empty file
+2024-10-31 08:54:13,064 INFO [launcher] OpenerFile::Close | valve\resource\gameui_english.txt: deleting empty file
+2024-10-31 08:54:13,064 INFO [launcher] OpenerFile::Close | cstrike\resource\CreateMultiplayerGameServerPage.res: deleting empty file
+2024-10-31 08:54:13,064 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMultiplayer.res: deleting empty file
+2024-10-31 08:54:13,065 INFO [launcher] OpenerFile::Close | cstrike\resource\TrackerScheme.res: deleting empty file
+2024-10-31 08:54:13,065 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_ukrainian.txt: deleting empty file
+2024-10-31 08:54:13,065 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_act.lst: deleting empty file
+2024-10-31 08:54:13,066 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\GameUI.dll: deleting empty file
+2024-10-31 08:54:13,066 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half3.tga: deleting empty file
+2024-10-31 08:54:13,066 INFO [launcher] OpenerFile::Close | cstrike\resource\MultiplayerAdvancedDialog.res: deleting empty file
+2024-10-31 08:54:13,066 INFO [launcher] OpenerFile::Close | cs_new.exe: deleting empty file
+2024-10-31 08:54:13,067 INFO [launcher] OpenerFile::Close | nitro_api2.dll: deleting empty file
+2024-10-31 08:54:13,067 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_english.txt: deleting empty file
+2024-10-31 08:54:13,067 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner1.tga: deleting empty file
+2024-10-31 08:54:13,067 INFO [launcher] OpenerFile::Close | cstrike\cl_dlls\client_mini.dll: deleting empty file
+2024-10-31 08:54:13,068 INFO [launcher] OpenerFile::Close | cstrike\gfx\shell\kb_def.lst: deleting empty file
+2024-10-31 08:54:13,068 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVoice.res: deleting empty file
+2024-10-31 08:54:13,068 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner2.tga: deleting empty file
+2024-10-31 08:54:13,069 INFO [launcher] OpenerFile::Close | valve\next_client.mssu: deleting empty file
+2024-10-31 08:54:13,069 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner3.tga: deleting empty file
+2024-10-31 08:54:13,069 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\logo_steam.tga: deleting empty file
+2024-10-31 08:54:13,070 INFO [launcher] OpenerFile::Close | valve\resource\valve_spanish.txt: deleting empty file
+2024-10-31 08:54:13,070 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800corner4.tga: deleting empty file
+2024-10-31 08:54:13,070 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder1.tga: deleting empty file
+2024-10-31 08:54:13,071 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder2.tga: deleting empty file
+2024-10-31 08:54:13,071 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubMiscellaneous.res: deleting empty file
+2024-10-31 08:54:13,072 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder3.tga: deleting empty file
+2024-10-31 08:54:13,072 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_russian.txt: deleting empty file
+2024-10-31 08:54:13,072 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_spanish.txt: deleting empty file
+2024-10-31 08:54:13,073 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder4.tga: deleting empty file
+2024-10-31 08:54:13,073 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_Source.res: deleting empty file
+2024-10-31 08:54:13,073 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half2.tga: deleting empty file
+2024-10-31 08:54:13,074 INFO [launcher] OpenerFile::Close | cstrike\gfx\vgui2\800cornerborder_half4.tga: deleting empty file
+2024-10-31 08:54:13,074 INFO [launcher] OpenerFile::Close | cstrike\sprites\kill_rarity.spr: deleting empty file
+2024-10-31 08:54:13,074 INFO [launcher] OpenerFile::Close | cstrike\resource\OptionsSubVideo.res: deleting empty file
+2024-10-31 08:54:13,075 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_english.txt: deleting empty file
+2024-10-31 08:54:13,075 INFO [launcher] OpenerFile::Close | cstrike\resource\cstrike_russian.txt: deleting empty file
+2024-10-31 08:54:13,076 INFO [launcher] OpenerFile::Close | valve\resource\gameui_russian.txt: deleting empty file
+2024-10-31 08:54:13,076 INFO [launcher] OpenerFile::Close | next_engine_mini.dll: deleting empty file
+2024-10-31 08:54:13,076 INFO [launcher] OpenerFile::Close | cstrike\resource\nextclient_ukrainian.txt: deleting empty file
+2024-10-31 08:54:13,077 INFO [launcher] OpenerFile::Close | valve\resource\valve_ukrainian.txt: deleting empty file
+2024-10-31 08:54:13,077 INFO [launcher] OpenerFile::Close | cstrike\resource\schemes\TrackerScheme_ClassicPlus.res: deleting empty file
+2024-10-31 08:54:13,078 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage.res: deleting empty file
+2024-10-31 08:54:13,078 INFO [launcher] OpenerFile::Close | valve\resource\gameui_ukrainian.txt: deleting empty file
+2024-10-31 08:54:13,078 INFO [launcher] OpenerFile::Close | next_lib.dll: deleting empty file
+2024-10-31 08:54:13,079 INFO [launcher] OpenerFile::Close | platform\steam\steam_api.dll: deleting empty file
+2024-10-31 08:54:13,079 INFO [launcher] OpenerFile::Close | platform\servers\InternetGamesPage_Filters.res: deleting empty file
+2024-10-31 08:54:13,079 INFO [launcher] OpenerFile::Close | valve\resource\gameui_spanish.txt: deleting empty file
+2024-10-31 08:54:13,080 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubVideo.res: deleting empty file
+2024-10-31 08:54:13,080 INFO [launcher] OpenerFile::Close | valve\resource\OptionsSubMouse.res: deleting empty file
+2024-10-31 08:54:13,080 INFO [launcher] Restoring from backup
+2024-10-31 08:54:13,080 INFO [launcher]   nothing to do
+2024-10-31 08:54:13,080 INFO [launcher] Clearing backup folder
+2024-10-31 08:54:13,105 INFO [launcher] Updater done: Exit
+2024-10-31 08:54:15,506 INFO [launcher] Exit

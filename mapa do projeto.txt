@@ -1,0 +1,6 @@
+Para criar um assistente de voz em Python que interaja com o ChatGPT da OpenAI e abra programas 
+no computador, precisará de bibliotecas e APIs:
+
+1- Reconhecimento de voz para capturar comandos de voz do usuário.
+2- OpenAI API para enviar perguntas ao modelo ChatGPT e receber respostas.
+3- Sistema de comandos para abrir programas no computador.
